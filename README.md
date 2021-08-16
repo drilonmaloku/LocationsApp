@@ -7,3 +7,6 @@ node::
 vue::
   - npm install
   - npm run serve
+
+database.sql:: 
+  - database name - database
